@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 One day, a boy named Satchi Mehta walked into a gym and saw some kids playing basketball. He started playing with them and he was really good! From that day on he went to the gym every day and played basketball with the other kids. 
+=======
+One day, a boy named Satchi Mehta walked into a gym and saw some kids playing basketball. He started playing with them and he was really good! From that day on he went to the gym every day and played basketball with the other kids. 
+
+Satchi made a lot of friends playing basketball. He really liked everybody until one day, a bully named Mike came to play. Mike was really mean to Satchi and pushed him down for no reason. Satchi did not know what to do.
+On the other hand,other kids are being bullied by this mIKE TOO. All kids don't like Mike anymore and they suggested to kick him out the next day. but no one dared to be the first one to talk to him. In the end, Satchi was the one to stand up to Mike. He was afriad, but he knew he had to be the leader everyone was depending on. He confronted Mike the next day, hoping talking was all that was needed.
+Satchi ended up being right, because all Mike needed was for someone to talk to him about it. Mike started being nicer to everyone, and they all became friends.
+>>>>>>> 49116ea5722a67f0f6df9d08ecc7447f91808d21
